@@ -1,6 +1,4 @@
 # -wiczenia-front
 
 
-do ciwczenie kommitów\
-sd
- sd DUpa dupa sdsd sd sd
+Nowy plik do testów
