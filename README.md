@@ -3,4 +3,4 @@
 
 do ciwczenie kommitów\
 sd
- sd
+ sd DUpa dupa 
