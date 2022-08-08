@@ -2,3 +2,5 @@
 
 
 do ciwczenie kommitów\
+sd
+ sd
